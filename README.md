@@ -1,7 +1,7 @@
 ## About Subauto
 
-Subauto is a python tool designed to enumerate subdomains of websites using OSINT it combain other tools Sublist3r and whatwaf
-, Themiedal
+Subauto is a Bash Script designed to enumerate subdomains of websites using OSINT it combain other tools Sublist3r and whatwaf
+, Themiedal, it bad coded but will do the job
 
 Picture
 
