@@ -6,7 +6,7 @@ Subauto is a python tool designed to enumerate subdomains of websites using OSIN
 
 
 ```
-git clone https://github.com/aboul3la/Sublist3r.git
+git clone https://github.com/m0nl1ght/Subauto.git
 ```
 
 ## Recommended Python Version:
