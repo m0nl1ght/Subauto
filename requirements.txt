@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.3
+requests==2.21.0
+argparse
+dnspython
