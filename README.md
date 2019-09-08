@@ -14,8 +14,8 @@ git clone https://github.com/m0nl1ght/Subauto.git
 ```
 
 ## Recommended Python Version:
-
-Sublist3r currently supports **Python 2**
+WhatWaf currently supports **Python 2** +3
+Sublist3r currently supports **Python 2** +3
 
 
 
