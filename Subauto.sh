@@ -102,8 +102,6 @@ cd ..
 
 subbrute() {
 
-#!/bin/bash
-
 echo -e "\033[1;32m [+] \033[0m" "\033[1;36m Starting Subdomain bruteforce.....................\033[0m"
 MY_PATH="`dirname \"$0\"`"
 MY_PATH="`( cd \"$MY_PATH\" && pwd )`"
